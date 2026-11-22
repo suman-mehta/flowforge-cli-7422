@@ -1,0 +1,14 @@
+{
+  "name": "flowforge-cli",
+  "version": "1.0.0",
+  "description": "Modern developer workflow automation and scaffolding CLI engine",
+  "type": "module",
+  "bin": {
+    "flowforge": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "keywords": ["developer-tools", "automation", "cli", "nodejs"]
+}
